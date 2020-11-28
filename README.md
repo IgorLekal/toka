@@ -12,13 +12,13 @@
 - HTML
 - CSS
 - Javascript
-- 
+-
 
 #### Back-end
 
 - Python
 - Flask
-- SQL
+- Flask_socket.io
 
 
 #### Contribuidores

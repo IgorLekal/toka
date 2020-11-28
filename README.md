@@ -1,23 +1,24 @@
 # Toka
 
-    Toka é 
+###### Toka é 
 
 
 
 
 #### Tecnologias usadas
 
-##### Front-end
+#### Front-end
 
 - HTML
 - CSS
--
+- Javascript
+- 
 
-##### Back-end
+#### Back-end
 
--
--
--
+- Python
+- Flask
+- SQL
 
 
 #### Contribuidores

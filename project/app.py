@@ -15,4 +15,4 @@ def send_message_handler(msg):
     emit('pegarMensagem', msg, json=True)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    io.run(app, debug=True) 
